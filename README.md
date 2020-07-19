@@ -7,6 +7,7 @@
 > 2. 可以支持lua waf拦截非法请求，可以自定义规则
 
 ## 默认参数
+- 使用文档参考 https://aqzt.com/6645.html
 - mysql默认密码为test123123
 - 默认WEB路径/data/wwwroot/www.xxxxxx.cn
 - 默认nginx配置路径/opt/nginx/conf.d
